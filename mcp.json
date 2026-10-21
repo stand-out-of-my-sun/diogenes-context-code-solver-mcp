@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "diogenes-context-code-solver": {
+      "transport": "streamable-http",
+      "url": "https://diogenes-micro-gateway.corinth.workers.dev/mcp/context-code-solver",
+      "auth": "none",
+      "description": "12 deterministic AI agent & developer tools: AST context pruner, BPE token budget planner, BM25+RRF+MMR hybrid reranker, self-healing fuzzy diff patcher, AST symbol & complexity graph, Tarjan circular dependency detector, stack-trace root-cause isolator, polyglot TypeScript/Zod/Pydantic compiler, Shunting-Yard math & IRR/NPV solver, Critical Path (CPM) constraint scheduler, Welch/Bayesian A/B statistical judge, and RFC 7396 memory checkpoint differ.",
+      "headers": {}
+    }
+  }
+}
