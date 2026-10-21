@@ -12,6 +12,13 @@
   "bugs": {
     "url": "https://github.com/stand-out-of-my-sun/diogenes-context-code-solver-mcp/issues"
   },
+  "main": "index.js",
+  "bin": {
+    "diogenes-context-code-solver-mcp": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
   "keywords": [
     "mcp",
     "mcp-server",
@@ -45,12 +52,5 @@
     "installConfidence": "high",
     "verification": "verified",
     "toolsCount": 15
-  },
-  "main": "index.js",
-  "bin": {
-    "diogenes-context-code-solver-mcp": "index.js"
-  },
-  "scripts": {
-    "start": "node index.js"
   }
 }
